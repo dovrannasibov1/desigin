@@ -4,6 +4,7 @@
 
 body {
   font-family: var(-fontLetter);
+ overflow-x:hidden;
 }
 
 .header_top {
